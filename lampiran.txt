@@ -1,0 +1,9 @@
+TransKutaradja
+Transkutaradja merupakan website yang kami bangun dalam rangka memenuhi projek MID Semester dan UAS. Ide projek ini hadir karena kami melihat bahwa penyediaan kendaraan umum di Aceh sudah sangat baik, namun sayang nya belum diintegrasikan kedalam website. Hal ini tentu menjadi permasalahan yang perlu diselesaikan, dimana dimasa ini masyarakat telah bertransformasi menjadi orang-orang yang melek teknologi dan mengharapkan akses informasi yang cepat, fleksibel, everywhere and everytime. Sehingga membangun website yang memuat informasi lengkap seputar Transkutaradja dan dapat diakses secara fleksibel adalah solusi yang tepat.
+Dalam projek ini terdapat 3 anggota kelompok yaitu:
+Iwani Khairina    2208107010078
+Rayanda Novian    24061009202253134
+Khadila Hamid     24001036220204622013
+
+Link Vidio:
+https://drive.google.com/file/d/1c7CVqI1SBWcJQfmt-ZfIYnKv9S3J1bv4/view?usp=sharing
